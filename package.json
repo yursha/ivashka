@@ -1,0 +1,26 @@
+{
+  "name": "ivashka",
+  "description": "Command-line ethernet chat",
+  "version": "1.0.0",
+  "dependencies": {
+    "colors": "^1.0.3"
+  },
+  "bin": {
+    "ivashka": "./index.js"
+  },
+  "keywords": [
+    "cli",
+    "chat",
+    "ethernet",
+    "client"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yursha/ivashka.git"
+  },
+  "bugs": {
+    "url": "http://github.com/yursha/ivashka/issues"
+  },
+  "author": "Alex Yursha",
+  "license": "ISC"
+}
