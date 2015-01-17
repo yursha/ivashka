@@ -1,7 +1,7 @@
 {
   "name": "ivashka",
   "description": "Command-line ethernet chat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "colors": "^1.0.3"
   },

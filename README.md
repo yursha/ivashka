@@ -9,4 +9,4 @@ Ethernet command-line chat client. Designed to work with [ivashkad](https://gith
 
 `ivashka <host>`
 
-Connects to port 6666 which is the standard port for *ivashka* server. *<host>* is an ip address where *ivashkad* listens at the moment.
+Connects to port 6666 which is the standard port for **ivashka** server. Param *host* is an ip address where **ivashkad** listens at the moment.
